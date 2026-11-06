@@ -67,6 +67,7 @@ the skill directory itself, not the `skills/` wrapper.
 | Skill | Description |
 |---|---|
 | [estandarizar-formato-slides](skills/estandarizar-formato-slides/SKILL.md) | Verifies and corrects Slidev presentations for the Sistemas Multiagentes I (MAS) course, enforcing required pedagogical slides (Repaso Rápido, Agenda de Hoy, Resumen, ¿Preguntas?), consistent frontmatter, section separators, and visual layout. |
+| [cargar-notas-planilla](skills/cargar-notas-planilla/SKILL.md) | Carga notas de estudiantes (parciales, recuperatorios, finales) en una planilla de cursada (Google Sheets o Excel), buscando por legajo a partir de una lista pegada tipo `legajo nota`. |
 
 ## Typical Workflow
 
