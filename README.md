@@ -62,6 +62,12 @@ the skill directory itself, not the `skills/` wrapper.
 |---|---|
 | [write-system-prompt](skills/write-system-prompt/SKILL.md) | Authors production-quality system prompts for LLM agents and assistants. Asks clarifying questions before drafting and structures output across role, instructions, constraints, output format, examples, and tools. |
 
+### Teaching Materials
+
+| Skill | Description |
+|---|---|
+| [estandarizar-formato-slides](skills/estandarizar-formato-slides/SKILL.md) | Verifies and corrects Slidev presentations for the Sistemas Multiagentes I (MAS) course, enforcing required pedagogical slides (Repaso Rápido, Agenda de Hoy, Resumen, ¿Preguntas?), consistent frontmatter, section separators, and visual layout. |
+
 ## Typical Workflow
 
 ```
